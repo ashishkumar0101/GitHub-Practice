@@ -7,6 +7,7 @@ public class ClassD {
 	public void demoTest() {
 		System.out.println("commit 3");
 		System.out.println("create conflict");
+		
 	}
 
 }
