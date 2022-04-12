@@ -8,6 +8,8 @@ public class ClassD {
 		System.out.println("commit 3");
 		System.out.println("create conflict");
 		
+		
+		System.out.println("conflict solved");
 	}
 
 }
