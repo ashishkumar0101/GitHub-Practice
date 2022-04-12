@@ -6,8 +6,8 @@ public class ClassD {
 	@Test
 	public void demoTest() {
 		System.out.println("commit 3");
-		-----------------------------
-		System.out.println("create conflicts");
+		
+		System.out.println("conflict");
 	}
 
 }
