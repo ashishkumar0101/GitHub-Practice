@@ -5,7 +5,12 @@ import org.testng.annotations.Test;
 public class ClassA {
 	@Test
 	public void gitPractice() {
-		System.out.println("first Push");
+		String browser = System.getProperty("browser");
+		String url = System.getProperty("url");
+		
+		
+		System.out.println(browser);
+		System.out.println(url);
 	}
 
 }
